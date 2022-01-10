@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SafeCOMPOUNDING</string>
+    <string name="heading">Compound calculator</string>
+    <string name="Enter">Enter Amount</string>
+    <string name="INR">INR</string>
+    <string name="RATE">Enter Rate</string>
+    <string name="percentage">%</string>
+    <string name="Click">Calculate</string>
+    <string name="Time">Time</string>
+    <string name="months">in Months</string>
+    <string name="Sponsor">This APP is unofficially sponsored by FINTax.  </string>
+
+</resources>
